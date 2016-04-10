@@ -4,12 +4,24 @@
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
     },
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_material.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_ic_go_search_api_material.png"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_material.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_ic_menu_paste_material.png"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_dark.png",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_checkbox_checked_mtrl.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_btn_checkbox_checked_mtrl.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
@@ -40,6 +52,10 @@
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_focused.9.png"
     },
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_material.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_ic_clear_material.png"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_normal.9.png"
     },
@@ -49,7 +65,7 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_dark.png",
@@ -57,11 +73,11 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_dark.png",
@@ -85,7 +101,7 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
@@ -96,36 +112,40 @@
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
     },
     {
-        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_2_mono_dark.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_2_mono_dark.png"
-    },
-    {
-        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_btn_checkbox_unchecked_mtrl.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_pressed.9.png"
     },
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_2_mono_dark.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_light.png",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_pause_light.png"
     },
     {
-        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
-    },
-    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
@@ -157,7 +177,7 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_disabled_mono_dark.png",
@@ -172,6 +192,10 @@
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_off_light.png"
     },
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_material.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_ic_menu_share_material.png"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_1.png",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-hdpi\\cast_ic_notification_1.png"
     },
@@ -181,11 +205,11 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
@@ -193,11 +217,11 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
@@ -213,7 +237,11 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_material.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_ic_menu_cut_material.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
@@ -221,11 +249,19 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_material.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_ic_menu_selectall_material.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_on_mtrl.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_btn_radio_on_mtrl.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_light.png",
@@ -261,7 +297,7 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
@@ -274,6 +310,10 @@
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_material.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_ic_ab_back_material.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_2.png",
@@ -289,7 +329,7 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_pedometer.png",
@@ -297,7 +337,7 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
@@ -313,15 +353,15 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_1_mono_dark.png",
@@ -341,15 +381,19 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_arrow_drop_right_black_24dp.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_ic_arrow_drop_right_black_24dp.png"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
@@ -357,7 +401,7 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
@@ -365,7 +409,7 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
@@ -389,19 +433,31 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_off_mtrl.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_btn_radio_off_mtrl.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_material.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_ic_voice_search_api_material.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_overflow_material.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_ic_menu_overflow_material.png"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png",
@@ -417,7 +473,7 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png",
@@ -429,7 +485,7 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_clear.png",
@@ -437,7 +493,7 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
@@ -453,11 +509,15 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_on_0_light.png",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_material.png",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\abc_ic_menu_copy_material.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
@@ -465,11 +525,11 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
@@ -477,6 +537,6 @@
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     }
 ]
