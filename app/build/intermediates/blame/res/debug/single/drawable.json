@@ -1,5 +1,17 @@
 [
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
@@ -8,8 +20,16 @@
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -24,20 +44,28 @@
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
     },
     {
-        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
-    },
-    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
@@ -68,6 +96,14 @@
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
@@ -88,16 +124,20 @@
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
-    },
-    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
@@ -124,12 +164,28 @@
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
@@ -178,6 +234,10 @@
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ic_menu_selectall_material.xml"
     },
     {
         "merged": "E:\\Users\\Mohammed Sohaib\\Android\\fitbradford\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
